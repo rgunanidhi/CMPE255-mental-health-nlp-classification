@@ -28,7 +28,6 @@ LDA topic modeling surfaces interpretable latent themes, and SHAP values provide
 
 | Dataset | Size | Source |
 |---------|------|--------|
-| Reddit Mental Health Dataset | ~5,957 labeled posts | [Kaggle](https://www.kaggle.com/datasets/neelghoshal/reddit-mental-health-data) |
 | Sentiment Analysis for Mental Health | ~51,000 statements | [Kaggle](https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health) |
 
 ## Project Structure
