@@ -1,0 +1,25 @@
+{
+  "best_params": {
+    "max_depth": 6,
+    "learning_rate": 0.2536999076681772,
+    "n_estimators": 320,
+    "subsample": 0.8394633936788146,
+    "colsample_bytree": 0.4780093202212183,
+    "min_child_weight": 2
+  },
+  "best_cv_macro_f1": 0.7780709366895843,
+  "test_macro_f1": 0.7965461414167275,
+  "baseline_macro_f1": 0.7458089828380505,
+  "n_trials": 3,
+  "feature_condition": "tfidf+engineered+lda",
+  "n_classes": 7,
+  "class_names": [
+    "Anxiety",
+    "Bipolar",
+    "Depression",
+    "Normal",
+    "Personality disorder",
+    "Stress",
+    "Suicidal"
+  ]
+}
