@@ -1,0 +1,17 @@
+[
+  "anger",
+  "anticipation",
+  "disgust",
+  "fear",
+  "joy",
+  "negative",
+  "positive",
+  "sadness",
+  "surprise",
+  "trust",
+  "word_count",
+  "sentence_count",
+  "punct_density",
+  "cap_ratio",
+  "avg_word_len"
+]
