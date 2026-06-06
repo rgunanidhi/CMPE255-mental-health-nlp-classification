@@ -6,6 +6,8 @@ const getColorClass = (className) => {
   if (className === 'Bipolar Disorder') return 'color-bipolar';
   if (className === 'Personality Disorder') return 'color-personality';
   if (className === 'Anxiety') return 'color-anxiety';
+  if (className === 'Suicidal') return 'color-suicidal';
+  if (className === 'Normal') return 'color-normal';
   return '';
 };
 
