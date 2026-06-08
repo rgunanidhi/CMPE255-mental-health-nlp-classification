@@ -24,9 +24,6 @@ function Sidebar() {
         </ul>
       </div>
 
-      <div style={{ marginTop: '2rem', fontSize: '0.85rem', fontWeight: '500' }}>
-        Project: CMPE-255, Section 34, Spring 2026
-      </div>
     </aside>
   );
 }

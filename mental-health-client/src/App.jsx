@@ -13,7 +13,7 @@ function App() {
           <h1>Mental Health Signal Classifier</h1>
         </div>
         <p>
-          Enter a text excerpt below to see which of the five mental-health categories 
+          Enter a text excerpt below to see which of the seven mental-health categories 
           the classifier assigns it to, along with per-class confidence scores and 
           the top SHAP-attributed tokens.
         </p>

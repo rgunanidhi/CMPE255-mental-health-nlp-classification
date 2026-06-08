@@ -255,3 +255,19 @@ textarea:focus {
 .shap-opposes {
   color: #ef4444;
 }
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+  .app-container {
+    flex-direction: column;
+  }
+  .sidebar {
+    width: 100%;
+    border-right: none;
+    border-bottom: 1px solid var(--panel-border);
+    padding: 1.5rem;
+  }
+  .main-content {
+    padding: 1.5rem;
+  }
+}
