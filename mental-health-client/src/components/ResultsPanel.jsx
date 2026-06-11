@@ -75,6 +75,11 @@ function ResultsPanel({ results }) {
           </table>
         </div>
       )}
+
+      {/* Bottom Reminder */}
+      <div className="alert-box alert-danger" style={{ marginTop: '2rem', fontSize: '0.9rem' }}>
+        <span style={{ color: 'inherit' }}>⚠️ <strong>Reminder:</strong> This is an academic demonstration only. The prediction above is NOT a clinical assessment and should NOT be used to make any decisions about health or safety.</span>
+      </div>
     </div>
   );
 }
