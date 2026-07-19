@@ -3,15 +3,6 @@
 **Course:** CMPE 255 – Data Mining, Section 34, Spring 2026
 **University:** San Jose State University
 
-## Team Members
-
-| Name | SJSU ID | Role |
-|------|---------|------|
-| Ravikumar Komandur Narayanan | 018265117 | NLP Feature Engineer |
-| Nathan Howland | 014826357 | Deep Learning & Deployment |
-| Gunanidhi Ramakrishnan | 019108284 | ML Modeling Lead |
-| Jesigga Sigurdardottir | 019156826 | Data Engineer |
-
 > Portfolio copy of our team project. Original repo:
 > [NateyLB/CMPE255Project](https://github.com/NateyLB/CMPE255Project) ·
 > Live demo: [cmpe-255-project.vercel.app](https://cmpe-255-project.vercel.app)
@@ -23,6 +14,15 @@
 > used by all four contributors; ran the stylistic-features leakage probe and
 > the cross-source / out-of-distribution evaluation; produced the final model
 > comparison and confusion-matrix analysis.
+
+## Team Members
+
+| Name | SJSU ID | Role |
+|------|---------|------|
+| Ravikumar Komandur Narayanan | 018265117 | NLP Feature Engineer |
+| Nathan Howland | 014826357 | Deep Learning & Deployment |
+| Gunanidhi Ramakrishnan | 019108284 | ML Modeling Lead |
+| Jesigga Sigurdardottir | 019156826 | Data Engineer |
 
 ## Project Overview
 
@@ -71,8 +71,8 @@ surface artifacts such as post length or punctuation density.
 ## Setup
 
 ```bash
-git clone https://github.com/NateyLB/CMPE255Project.git
-cd CMPE255Project
+git clone https://github.com/rgunanidhi/CMPE255-mental-health-nlp-classification.git
+cd CMPE255-mental-health-nlp-classification
 pip install -r requirements.txt
 ```
 
